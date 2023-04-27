@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salimoalfredo
-- 👀 I’m interested in python and go
-- 🌱 I’m currently learning playwright
-- 💞️ I’m looking to collaborate on open-source projects written in python
+- 👀 I’m interested in python and golang for automation testing
+- 🌱 I’m currently learning best practices on microservices test automation
+- 💞️ I’m looking to collaborate on open-source projects written in python and golang
 - 📫 You can reach me at @salimosasa on twitter
 
 <!---
