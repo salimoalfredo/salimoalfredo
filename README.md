@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @salimoalfredo
-- 👀 I’m interested in python and golang for automation testing
-- 🌱 I’m currently learning best practices on microservices test automation
-- 💞️ I’m looking to collaborate on open-source projects written in python and golang
+- 👀 I’m interested in python
+- 💞️ I’m looking to collaborate on open-source projects written in python
 - 📫 You can reach me at @salimosasa on twitter
 
 <!---
